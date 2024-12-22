@@ -1,0 +1,1 @@
+/Users/antonin/Devel/my_nested_dir_example/target/debug/my_nested_dir_example: /Users/antonin/Devel/my_nested_dir_example/src/main.rs /Users/antonin/Devel/my_nested_dir_example/src/something/inside/mod.rs /Users/antonin/Devel/my_nested_dir_example/src/something/mod.rs /Users/antonin/Devel/my_nested_dir_example/src/something/something.rs
